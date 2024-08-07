@@ -1,4 +1,4 @@
-# RFM-Analysis
+# 9-Box Grid in Hr Department ( RFM Analysis)
 RFM Analysis in HR Department
 Using RFM Analysis in the HR Department
 While preparing a dashboard for the Sales Department, I noticed that among many metrics, one stands out as particularly crucial: RFM analysis. Every dashboard must include RFM analysis. I realized that this method is also suitable for the HR Department. If you are familiar with the 9-Box Grid, you know what I mean.
