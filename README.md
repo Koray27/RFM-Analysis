@@ -46,4 +46,5 @@ Then we will add a string value in our cards. We can see easily where our worker
 
 By following these steps, HR managers can see the performance and potential of employees both by name and in general percentage values. This provides a more data-driven and detailed analysis.
 
-[9-Box Grid.xlsx](https://github.com/user-attachments/files/16269235/9-Box.Grid.xlsx)
+
+[9-Box Grid.xlsx](https://github.com/user-attachments/files/16521441/9-Box.Grid.xlsx)
